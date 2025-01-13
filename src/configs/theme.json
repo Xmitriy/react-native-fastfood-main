@@ -1,0 +1,18 @@
+{
+  "dark": {
+    "bodyBackground": "#222",
+    "headerBackground": "#333",
+    "itemBackground": "#333",
+    "primaryColor": "#00a86b",
+    "textBodyColor": "#f2f3f4",
+    "textHeaderColor": "#f2f3f4"
+  },
+  "light": {
+    "bodyBackground": "#f2f3f4",
+    "headerBackground": "#00a86b",
+    "itemBackground": "#ddd",
+    "primaryColor": "#00a86b",
+    "textBodyColor": "#000",
+    "textHeaderColor": "#f2f3f4"
+  }
+}
